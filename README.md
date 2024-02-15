@@ -20,7 +20,52 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 
 <br />
 
-#
+<table>
+  <thead align="center">
+    <tr style="border: none;">
+      <td><b>🎁 Projects</b></td>
+      <th><b>Languages</b></th> 
+          <th><b>Decription</b></th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td>React, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td>TypeScript, React</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td>Node.js, TypeScript, GraphQL</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🧠 Problems & algos</b></td>
+      <td><b> Languages </b></td>
+      <th><b>Decription</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td>React, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td>TypeScript, React</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td>Node.js, TypeScript, GraphQL</td>
+    </tr>
+  </tbody>
+</table>
 <table>
   <thead align="center">
     <tr style="border: none;">
@@ -51,55 +96,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 
 
 
-<table>
-  <thead align="center">
-    <tr style="border: none;">
-      <td><b>🎁 Projects</b></td>
-      <th><b>Languages</b></th> 
-          <th><b>Decription</b></th> 
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>React, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td>TypeScript, React</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td>Node.js, TypeScript, GraphQL</td>
-    </tr>
-  </tbody>
-</table>
 
-
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🧠 Problems & algos</b></td>
-      <td><b> Languages </b></td>
-      <th><b>Decription</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>React, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td>TypeScript, React</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td>Node.js, TypeScript, GraphQL</td>
-    </tr>
-  </tbody>
-</table>
 
 
 
