@@ -90,3 +90,116 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </tbody>
 </table>
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Three Column Tables</title>
+<style>
+  .table-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+  }
+  .column {
+    flex: 1; /* Each column takes up an equal amount of space */
+    padding: 10px; /* Add some space around the tables */
+  }
+  table {
+    width: 100%; /* Make tables expand to fill their columns */
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<div class="table-container">
+  <div class="column">
+    <table>
+      <thead align="center">
+        <tr>
+          <th><b>🌳 Data Structures</b></th>
+          <th><b>Languages</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+          <td>React, JavaScript</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+          <td>TypeScript, React</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+          <td>Node.js, TypeScript, GraphQL</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="column">
+    <table>
+      <thead align="center">
+        <tr>
+          <th><b>🎁 Projects</b></th>
+          <th><b>Languages</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+          <td>React, JavaScript</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+          <td>TypeScript, React</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+          <td>Node.js, TypeScript, GraphQL</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="column">
+    <table>
+      <thead align="center">
+        <tr>
+          <th><b>🧠 Problems & Algos</b></th>
+          <th><b>Languages</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+          <td>React, JavaScript</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+          <td>TypeScript, React</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+          <td>Node.js, TypeScript, GraphQL</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</body>
+</html>
+
+
