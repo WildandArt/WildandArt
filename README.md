@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Art
+![icons8-c-48](https://github.com/WildandArt/WildandArt/assets/17566607/d4a50805-9129-4980-b7ba-14ffcc82ce11)
 
 - 📫 You can reach me on linkedin www.linkedin.com/in/art-ozersky-5a3a5744
 
