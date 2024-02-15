@@ -33,27 +33,19 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
       <td>React, JavaScript</td>
+      <td>TypeScript, React</td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td>TypeScript, React</td>
       <td>TypeScript, React</td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
       <td>Node.js, TypeScript, GraphQL</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>React, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
       <td>TypeScript, React</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td>Node.js, TypeScript, GraphQL</td>
-    </tr>
+ </tr>
+
   </tbody>
 </table>
 
