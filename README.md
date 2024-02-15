@@ -48,10 +48,9 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr style="border: none;">
       <td><b>🎁 Projects</b></td>
-    
-    </tr>
+      <th><b>Languages</b></th> </tr>
   </thead>
   <tbody>
     <tr>
