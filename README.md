@@ -8,8 +8,7 @@ WildandArt/WildandArt is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
+[](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg)
 <table><tr>
 <td valign="top" width="33%">
     ###Projects
@@ -26,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 </td>
 </tr>
 </table>
+
+
