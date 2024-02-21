@@ -54,13 +54,13 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>RCString</b></a></td>
+      <td><a href="https://github.com/WildandArt/cpp-classes/tree/master/RCString"><b>RCString</b></a></td>
       <td>C++</td>
       <td>A String Class that implements copy-on-write and Reference Counting</td>
       <td>Scott Meyers</td>
     </tr>
     <tr>
-      <td><a href=""><b>Shared Pointer</b></a></td>
+      <td><a href="https://github.com/WildandArt/cpp-classes/tree/master/SharedPtr"><b>Shared Pointer</b></a></td>
       <td>C++</td>
       <td>An implementation of shared_ptr using reference counting and Pimpl Idiom</td>
       <td>Scott Meyers</td>
