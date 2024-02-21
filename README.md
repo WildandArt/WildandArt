@@ -83,7 +83,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>One</b></a></td>
+      <td><a href=""><b>Bounded Buffer Problem</b></a></td>
       <td></td>
     </tr>
     <tr>
@@ -185,11 +185,11 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>One</b></a></td>
+      <td><a href=""><b>Factory Design Pattern</b></a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href=""><b>Two</b></a></td>
+      <td><a href=""><b>Composite Design Pattern</b></a></td>
       <td></td>
     </tr>
     <tr>
