@@ -95,30 +95,11 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     </tr>
   </tbody>
 </table>
-
 <table>
-  <thead align="center">
-    <tr style="border: none;">
-      <td><b>🧩Design Patterns</b></td>
-      <th><b>Languages</b></th> 
-          <th><b>Description</b></th> 
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=""><b>One</b></a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href=""><b>Two</b></a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href=""><b>Three</b></a></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+  <tr>
+
+    
+  <td valign="top">
 
 <table>
   <thead align="center">
@@ -187,6 +168,47 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 
   </tbody>
 </table>
+
+    
+  </td>
+
+
+
+  <td valign="top">
+<table>
+  <thead align="center">
+    <tr style="border: none;">
+      <td><b>🧩Design Patterns</b></td>
+      <th><b>Languages</b></th> 
+          <th><b>Description</b></th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href=""><b>One</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Two</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Three</b></a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+    
+  </td>
+
+
+
+    
+  </tr>
+</table>
+
+
 
 
 
