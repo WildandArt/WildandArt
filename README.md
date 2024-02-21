@@ -84,71 +84,57 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     <tr>
       <td><a href=""><b>Thread Safe Queue</b></a></td>
       <td>C</td>
-      <td>TypeScript, React</td>
     </tr>
     <tr>
       <td><a href=""><b>Binary Search Tree</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
     <tr>
       <td><a href=""><b>Heap</b></a></td>
       <td>C</td>
-      <td>C</td>
    </tr>
     <tr>
       <td><a href=""><b>Queue using Linked List</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
      <tr>
       <td><a href=""><b>Stack</b></a></td>
       <td>C</td>
-      <td>C</td>
     </tr>
      <tr>
       <td><a href=""><b>Circular Buffer</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
      <tr>
       <td><a href=""><b>Vector</b></a></td>
       <td>C</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href=""><b>Hash Table</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
     <tr>
       <td><a href=""><b>Avl tree</b></a></td>
       <td>C</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href=""><b>Priority Queue</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
     <tr>
       <td><a href=""><b>Heap Priority Queue</b></a></td>
       <td>C</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href=""><b>Bit Array</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
       <tr>
       <td><a href=""><b>Singly Linked List</b></a></td>
       <td>C</td>
-      <td>C</td>
     </tr>
       <tr>
       <td><a href=""><b>Doubly Linked List</b></a></td>
-      <td>C</td>
       <td>C</td>
     </tr>
 
