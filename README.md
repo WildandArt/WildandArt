@@ -19,7 +19,6 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 <br><br />
 
 
-
 <table>
   <thead align="center">
     <tr style="border: none;">
@@ -30,15 +29,15 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><a href=""><b>One</b></a></td>
       <td>React, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><a href=""><b>Two</b></a></td>
       <td>TypeScript, React</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><a href=""><b>Three</b></a></td>
       <td>Node.js, TypeScript, GraphQL</td>
     </tr>
   </tbody>
@@ -53,16 +52,16 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>React, JavaScript</td>
+      <td><a href=""><b>RCString</b></a></td>
+      <td>C++</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td>TypeScript, React</td>
+      <td><a href=""><b>Shared Pointer</b></a></td>
+      <td>C++</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td>Node.js, TypeScript, GraphQL</td>
+      <td><a href=""><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td>Basic Scope Lock</td>
     </tr>
   </tbody>
 </table>
@@ -83,13 +82,68 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     <tr>
       <td><a href=""><b>Binary Search Tree</b></a></td>
       <td>C</td>
-      <td>TypeScript, React</td>
+      <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Max Heap</b></a></td>
+      <td><a href=""><b>Heap</b></a></td>
       <td>C</td>
-      <td>TypeScript, React</td>
- </tr>
+      <td>C</td>
+   </tr>
+    <tr>
+      <td><a href=""><b>Queue using Linked List</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+     <tr>
+      <td><a href=""><b>Stack</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+     <tr>
+      <td><a href=""><b>Circular Buffer</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+     <tr>
+      <td><a href=""><b>Vector</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Hash Table</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Avl tree</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Priority Queue</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Heap Priority Queue</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Bit Array</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+      <tr>
+      <td><a href=""><b>Singly Linked List</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+      <tr>
+      <td><a href=""><b>Doubly Linked List</b></a></td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
 
   </tbody>
 </table>
