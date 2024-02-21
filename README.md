@@ -86,55 +86,55 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Binary Search Tree</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/BinarySearchTree"><b>Binary Search Tree</b></a></td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Heap</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/Heap"><b>Heap</b></a></td>
       <td>C</td>
    </tr>
     <tr>
-      <td><a href=""><b>Queue using Linked List</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/Queue"><b>Queue using Linked List</b></a></td>
       <td>C</td>
     </tr>
      <tr>
-      <td><a href=""><b>Stack</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/Stack"><b>Stack</b></a></td>
       <td>C</td>
     </tr>
      <tr>
-      <td><a href=""><b>Circular Buffer</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/CircularBuffer"><b>Circular Buffer</b></a></td>
       <td>C</td>
     </tr>
      <tr>
-      <td><a href=""><b>Vector</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/Vector"><b>Vector</b></a></td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Hash Table</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/HashTable"><b>Hash Table</b></a></td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Avl tree</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/AvlTree"><b>Avl tree</b></a></td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Priority Queue</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/PriorityQueue"><b>Priority Queue</b></a></td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Heap Priority Queue</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/HeapPriorityQueue"><b>Heap Priority Queue</b></a></td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a href=""><b>Bit Array</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/BitArray"><b>Bit Array</b></a></td>
       <td>C</td>
     </tr>
       <tr>
-      <td><a href=""><b>Singly Linked List</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/SinglyLinkedList"><b>Singly Linked List</b></a></td>
       <td>C</td>
     </tr>
       <tr>
-      <td><a href=""><b>Doubly Linked List</b></a></td>
+      <td><a href="https://github.com/WildandArt/data-structures/tree/master/DoublyLinkedList"><b>Doubly Linked List</b></a></td>
       <td>C</td>
     </tr>
 
