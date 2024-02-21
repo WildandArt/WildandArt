@@ -49,7 +49,6 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td><b> Languages </b></td>
       <th><b>Description</b></th>
       <th><b>Inspired By</b></th>
-
     </tr>
   </thead>
   <tbody>
