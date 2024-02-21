@@ -78,7 +78,6 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     <tr style="border: none;">
       <th><b>🌳 Data Structures</b></th>
       <th><b>Languages</b></th>
-      <th><b>Decription</b></th> </tr>
   </thead>
   
   <tbody>
