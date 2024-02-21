@@ -42,26 +42,36 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     </tr>
   </tbody>
 </table>
+//Problems and algos
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🧠 Problems & algos</b></td>
       <td><b> Languages </b></td>
-      <th><b>Decription</b></th>
+      <th><b>Description</b></th>
+      <th><b>Inspired By</b></th>
+
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href=""><b>RCString</b></a></td>
       <td>C++</td>
+      <td>a String Class that implements copy-on-write and Reference Counting</td>
+      <td>Scott Meyers's Book</td>
+
     </tr>
     <tr>
       <td><a href=""><b>Shared Pointer</b></a></td>
       <td>C++</td>
+      <td>An implementation of shared_ptr using reference counting and Pimpl Idiom</td>
+      <td>Scott Meyers's Book</td>
     </tr>
     <tr>
-      <td><a href=""><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><a href=""><b>Lock</b></a></td>
       <td>Basic Scope Lock</td>
+      <td>RAII Scope Lock</td>
+
     </tr>
   </tbody>
 </table>
