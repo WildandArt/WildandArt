@@ -72,6 +72,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     </tr>
   </tbody>
 </table>
+
 <table>
   <thead align="center">
     <tr style="border: none;">
@@ -95,10 +96,9 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     </tr>
   </tbody>
 </table>
-<table>
-  <tr>
 
-    
+<table border="0">
+  <tr>
   <td valign="top">
 
 <table>
