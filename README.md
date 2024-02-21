@@ -24,21 +24,21 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     <tr style="border: none;">
       <td><b>🎁 Projects</b></td>
       <th><b>Languages</b></th> 
-          <th><b>Decription</b></th> 
+          <th><b>Description</b></th> 
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href=""><b>One</b></a></td>
-      <td>React, JavaScript</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href=""><b>Two</b></a></td>
-      <td>TypeScript, React</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href=""><b>Three</b></a></td>
-      <td>Node.js, TypeScript, GraphQL</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
