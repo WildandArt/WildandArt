@@ -56,9 +56,8 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     <tr>
       <td><a href=""><b>RCString</b></a></td>
       <td>C++</td>
-      <td>a String Class that implements copy-on-write and Reference Counting</td>
+      <td>A String Class that implements copy-on-write and Reference Counting</td>
       <td>Scott Meyers's Book</td>
-
     </tr>
     <tr>
       <td><a href=""><b>Shared Pointer</b></a></td>
@@ -70,7 +69,6 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td><a href=""><b>Lock</b></a></td>
       <td>Basic Scope Lock</td>
       <td>RAII Scope Lock</td>
-
     </tr>
   </tbody>
 </table>
