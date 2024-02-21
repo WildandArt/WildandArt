@@ -42,7 +42,6 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
     </tr>
   </tbody>
 </table>
-//Problems and algos
 <table>
   <thead align="center">
     <tr border: none;>
