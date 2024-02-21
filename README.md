@@ -66,7 +66,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td>Scott Meyers</td>
     </tr>
     <tr>
-      <td><a href=""><b>Lock</b></a></td>
+      <td><a href="https://github.com/WildandArt/cpp-classes/tree/master/Lock"><b>Lock</b></a></td>
       <td>C++</td>
       <td>Basic Scope Lock</td>
       <td>RAII Scope Lock</td>
