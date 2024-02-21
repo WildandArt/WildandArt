@@ -75,6 +75,54 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 <table>
   <thead align="center">
     <tr style="border: none;">
+      <td><b>🧵 🧵 Multithreaded Problems</b></td>
+      <th><b>Languages</b></th> 
+        <th><b>Description</b></th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href=""><b>One</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Two</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Three</b></a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead align="center">
+    <tr style="border: none;">
+      <td><b>🧩Design Patterns</b></td>
+      <th><b>Languages</b></th> 
+          <th><b>Description</b></th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href=""><b>One</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Two</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Three</b></a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead align="center">
+    <tr style="border: none;">
       <th><b>🌳 Data Structures</b></th>
       <th><b>Languages</b></th>
   </thead>
