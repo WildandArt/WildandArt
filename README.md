@@ -192,7 +192,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td></td>
     </tr>
     <tr>
-      <td><a href=""><b>Composite Design Pattern</b></a></td>
+      <td><b>Composite Design Pattern</b></td>
       <td></td>
     </tr>
     <tr>
