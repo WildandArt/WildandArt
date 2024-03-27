@@ -29,7 +29,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>Watch Dog</b></a></td>
+      <td><b>Watch Dog</b></td>
       <td>C</td>
       <td>Code defending</td>
     </tr>
