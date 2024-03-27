@@ -188,7 +188,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>Factory Design Pattern</b></a></td>
+      <td><b>Factory Design Pattern</b></td>
       <td></td>
     </tr>
     <tr>
