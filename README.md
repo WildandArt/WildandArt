@@ -86,7 +86,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>Bounded Buffer Problem</b></a></td>
+      <td><b>Bounded Buffer Problem</b></td>
       <td></td>
     </tr>
     <tr>
