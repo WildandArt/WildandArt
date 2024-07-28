@@ -1,5 +1,5 @@
 👋 Hi, I’m Art
-As a passionate Software Developer, I find myself uniquely positioned at the intersection of low-level hardware interaction and high-level application development. With a solid foundation in computer science principles and a fervent drive to explore the intricacies of technology, I have cultivated a skill set that spans the full spectrum of software engineering. My journey has been marked by a deep-seated interest in embedded systems, where the challenge of optimizing performance within constrained environments fuels my motivation. Concurrently, my enthusiasm extends to full-stack development, where I thrive on crafting end-to-end solutions that seamlessly integrate frontend elegance with robust backend functionality.
+
 
 - 📫 You can reach me on <a href="www.linkedin.com/in/art-ozersky-5a3a5744"><b>linkedin</b></a>
 - On Medium <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
@@ -41,9 +41,9 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td>Simple Unit Testing for small-medium projects</td>
     </tr>
 <!--     <tr>
-      <td><a href=""><b>Three</b></a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/WildandArt/HackerNewsAPI"><b>In Progress: Hacker News API backend</b></a></td>
+      <td>Java, SpringBoot</td>
+      <td>Hacker News API project. PostgreSql & in-memory Cache implementation</td>
     </tr> -->
   </tbody>
 </table>
