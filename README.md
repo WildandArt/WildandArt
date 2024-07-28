@@ -48,7 +48,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
   </tbody>
 </table>
 <table>
-  <thead align="center">
+<!--   <thead align="center">
     <tr border: none;>
       <td><b>🧠 Problems & algos</b></td>
       <td><b> Languages </b></td>
@@ -211,7 +211,7 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
 
     
   </tr>
-</table>
+</table> -->
 
 
 
