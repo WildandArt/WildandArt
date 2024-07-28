@@ -40,11 +40,11 @@
       <td>C++11</td>
       <td>Simple Unit Testing for small-medium projects</td>
     </tr>
-<!--     <tr>
+    <tr>
       <td><a href="https://github.com/WildandArt/HackerNewsAPI"><b>In Progress: Hacker News API backend</b></a></td>
       <td>Java, SpringBoot</td>
       <td>Hacker News API project. PostgreSql & in-memory Cache implementation</td>
-    </tr> -->
+    </tr>
   </tbody>
 </table>
 <table>
