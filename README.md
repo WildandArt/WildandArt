@@ -40,11 +40,11 @@ As a passionate Software Developer, I find myself uniquely positioned at the int
       <td>C++11</td>
       <td>Simple Unit Testing for small-medium projects</td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href=""><b>Three</b></a></td>
       <td></td>
       <td></td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 <table>
