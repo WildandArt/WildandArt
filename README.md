@@ -20,7 +20,16 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <br><br />
 
-
+## 🎁 Projects 
+  <p>
+    - <a href="https://github.com/WildandArt/TestingSummary"><b>Test Summary</b></a>
+    -Simple Unit Testing for small-medium projects written in C++.
+  </p>
+  <p>
+  - <a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a>
+    -Hacker News API project. PostgreSql & in-memory Cache implementation written in Java17 SpringBoot.
+  </p>
+<!--
 <table>
   <thead align="center">
     <tr style="border: none;">
@@ -48,7 +57,7 @@
   </tbody>
 </table>
 <table>
-
+-->
   <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildandart&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
   
