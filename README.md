@@ -48,8 +48,9 @@
   </tbody>
 </table>
 <table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandart)](https://github.com/wildandart/github-readme-stats)
-[![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandart)](https://github.com/wildandart/github-readme-stats)
+  
+  [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
   
 <!--   <thead align="center">
     <tr border: none;>
