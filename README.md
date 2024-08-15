@@ -48,6 +48,10 @@
   </tbody>
 </table>
 <table>
+
+  <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildandart&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandart)](https://github.com/wildandart/github-readme-stats)
   
   [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
