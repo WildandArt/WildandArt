@@ -48,12 +48,8 @@
   </tbody>
 </table>
 <table>
-## <h3 align="left">GitHub Stats</h3>
 
 [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
-<a href="">
-  <img align="centre" src="[![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)" />
-<a />
   
 <!--   <thead align="center">
     <tr border: none;>
