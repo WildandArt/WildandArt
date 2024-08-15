@@ -22,12 +22,12 @@
 
 ## 🎁 Projects 
   <p>
-    - <a href="https://github.com/WildandArt/TestingSummary"><b>Test Summary</b></a>
-    -Simple Unit Testing for small-medium projects written in C++.
+    <a href="https://github.com/WildandArt/TestingSummary"><b>Test Summary</b></a>
+    - Simple Unit Testing for small-medium projects written in C++.
   </p>
   <p>
-  - <a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a>
-    -Hacker News API project. PostgreSql & in-memory Cache implementation written in Java17 SpringBoot.
+    <a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a>
+    - Hacker News API project. PostgreSql & in-memory Cache implementation written in Java17 SpringBoot.
   </p>
 <!--
 <table>
