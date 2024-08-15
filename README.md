@@ -41,13 +41,19 @@
       <td>Simple Unit Testing for small-medium projects</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/WildandArt/HackerNewsAPI"><b>In Progress: Hacker News API backend</b></a></td>
+      <td><a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a></td>
       <td>Java, SpringBoot</td>
       <td>Hacker News API project. PostgreSql & in-memory Cache implementation</td>
     </tr>
   </tbody>
 </table>
 <table>
+## <h3 align="left">GitHub Stats</h3>
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
 <!--   <thead align="center">
     <tr border: none;>
       <td><b>🧠 Problems & algos</b></td>
