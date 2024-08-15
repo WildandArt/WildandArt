@@ -1,11 +1,11 @@
 👋 Hi, I’m Art
 
 
-- 📫 You can reach me on <a href="www.linkedin.com/in/art-ozersky-5a3a5744"><b>linkedin</b></a>
+- You can reach me on <a href="www.linkedin.com/in/art-ozersky-5a3a5744"><b>linkedin</b></a>
 - On Medium <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
 
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <!--
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -33,7 +33,7 @@
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 
 
-### 🎁 Projects 
+### Projects 
   <p>
     <a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a>
     - Hacker News API project. PostgreSql & in-memory Cache implementation written in Java SpringBoot.
