@@ -1,4 +1,4 @@
-👋 Hi, I’m Art
+Hi, I’m Art
 
 
 - You can reach me on <a href="www.linkedin.com/in/art-ozersky-5a3a5744"><b>linkedin</b></a>
