@@ -36,20 +36,21 @@
 ### 🎁 Projects 
   <p>
     <a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a>
-    - Hacker News API project. PostgreSql & in-memory Cache implementation written in Java17 SpringBoot.
+    - Hacker News API project. PostgreSql & in-memory Cache implementation written in Java SpringBoot.
   </p>
   <p>
     <a href="https://github.com/WildandArt/TestingSummary"><b>Test Summary</b></a>
     - Simple Unit Testing for small-medium projects written in C++.
   </p>
+  
 
   <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildandart&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildandart&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">    
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandart)](https://github.com/wildandart/github-readme-stats)
-  
-  [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
-  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandart)](https://github.com/wildandart/github-readme-stats)
+    
+    [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
+      
 <!--   <thead align="center">
     <tr border: none;>
       <td><b>🧠 Problems & algos</b></td>
