@@ -2,7 +2,7 @@ Hi, I’m Art
 
 
 - You can reach me on <a href="www.linkedin.com/in/art-ozersky-xyz"><b>linkedin</b></a>
-- On Medium <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
+- On <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
 
 
 ### Languages and Tools
