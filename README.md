@@ -1,7 +1,7 @@
 Hi, I’m Art
 
 
-- You can reach me on <a href="www.linkedin.com/in/art-ozersky-5a3a5744"><b>linkedin</b></a>
+- You can reach me on <a href="www.linkedin.com/in/art-ozersky-xyz"><b>linkedin</b></a>
 - On Medium <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
 
 
